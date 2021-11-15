@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sc4rfurry
+- 👀 I’m interested in Red Teaming, Python Scripting and CTF Player.
+- 🌱 I’m currently learning Pivoting and Network Pentesting.
+- 📫 How to reach me akalucifr@protonmail.ch
