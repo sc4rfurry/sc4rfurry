@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Proxy Ninja](https://github.com/sc4rfurry/Proxy-Ninja)
 
-- Visit my website [link](https://sc4rfurry.github.io)
+- ⚡ Visit my [website](https://sc4rfurry.github.io)
 
 - 🌱 I’m currently learning **Go Lang**
 
